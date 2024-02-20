@@ -2,6 +2,10 @@
 
 Homemade installation ISO that installs VMware ESXI 6.7.0 with Realtek RTL8111 drivers
 
+# Download links
+The files were uploaded using Git LFS. If you can't download them, that's probably because of the GitLFS download quota.
+Here is another link from which you can download everything used in this project : 
+https://mega.nz/folder/80gDjIba#zC5aDamn6gucG1S58WxDPQ
 
 # Included packages
 - VMware ESXi 6.7.0 201912001
